@@ -35,16 +35,12 @@ using _0701;
 namespace _0701 {
     
     
-    /// <summary>
-    /// MainWindow
-    /// </summary>
+    
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
         private bool _contentLoaded;
         
-        /// <summary>
-        /// InitializeComponent
-        /// </summary>
+     
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public void InitializeComponent() {
